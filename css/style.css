@@ -1,0 +1,33 @@
+.main {
+	width: 100px;
+	height: 300px;
+	background-color: black;
+	border-radius: 20px;
+}
+.stop {
+	width: 100px;
+	height: 100px;
+	background-color: gray;
+	border-radius: 20px;
+}
+.ready {
+	width: 100px;
+	height: 100px;
+	background-color: gray;
+	border-radius: 20px;
+}
+.go {
+	width: 100px;
+	height: 100px;
+	background-color: gray;
+	border-radius: 20px;
+}
+.red {
+	background-color: red;
+}
+.yellow {
+	background-color: yellow;
+}
+.green {
+	background-color: green;
+}
